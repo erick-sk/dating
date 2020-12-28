@@ -1,5 +1,5 @@
 # Daiting
-[![Netlify Status](https://api.netlify.com/api/v1/badges/de5e406b-3138-4cbf-889c-a3859754e84b/deploy-status)](https://dating.ericksaavedra.dev)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de5e406b-3138-4cbf-889c-a3859754e84b/deploy-status)](https://dating-erick-sk.netlify.app)
 
 One of my first projects with ReacJs. Thinking about managing appointments in Veterinary.
 
